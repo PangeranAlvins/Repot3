@@ -1,6 +1,4 @@
-# Pangeran Alvins Hacking Facebook tool
 
-# follow installation 
 # $: git clone https://github.com/PangeranAlvins/Repot3
 # $: cd Repot3
 # $: bash install.sh
